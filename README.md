@@ -10,6 +10,12 @@ OceanMate is a marine-themed ASCII animation project built using Python. It simu
 - Dynamic background animation and movement
 - Educational and relaxing gameplay style
 
+## 🖼 Demo
+
+Here is a snapshot of the OceanMate ASCII animation in action:
+
+![OceanMate demo](./demo.jpg)
+
 ## 📁 Project Structure
 
 - `main.py` – Game entry point
